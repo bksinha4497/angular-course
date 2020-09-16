@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { ServersComponent } from './servers/servers.component';
 import { WarningAlertComponent } from './warning-alert/warning-alert.component';
 import { SuccessAlertComponent } from './success-alert/success-alert.component';
+import { AssignmentTwoDataBindingComponent } from './assignment-two-data-binding/assignment-two-data-binding.component';
 
 
 
@@ -16,7 +17,8 @@ import { SuccessAlertComponent } from './success-alert/success-alert.component';
     ServerComponent,
     ServersComponent,
     WarningAlertComponent,
-    SuccessAlertComponent
+    SuccessAlertComponent,
+    AssignmentTwoDataBindingComponent
   ],
   imports: [
     BrowserModule,
