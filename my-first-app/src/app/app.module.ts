@@ -8,6 +8,7 @@ import { ServersComponent } from './servers/servers.component';
 import { WarningAlertComponent } from './warning-alert/warning-alert.component';
 import { SuccessAlertComponent } from './success-alert/success-alert.component';
 import { AssignmentTwoDataBindingComponent } from './assignment-two-data-binding/assignment-two-data-binding.component';
+import { AssignmentThreeDirectivesComponent } from './assignment-three-directives/assignment-three-directives.component';
 
 
 
@@ -18,7 +19,8 @@ import { AssignmentTwoDataBindingComponent } from './assignment-two-data-binding
     ServersComponent,
     WarningAlertComponent,
     SuccessAlertComponent,
-    AssignmentTwoDataBindingComponent
+    AssignmentTwoDataBindingComponent,
+    AssignmentThreeDirectivesComponent
   ],
   imports: [
     BrowserModule,
